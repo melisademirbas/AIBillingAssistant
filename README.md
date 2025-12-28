@@ -1,3 +1,7 @@
+# Github :
+
+https://github.com/melisademirbas/AIBillingAssistant
+
 # Video Linki
 
 https://drive.google.com/file/d/1maUjUUzNrHiBn6Ai17pZGIE4zQ5yZ4K9/view?usp=share_link
